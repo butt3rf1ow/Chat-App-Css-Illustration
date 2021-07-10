@@ -1,0 +1,29 @@
+@media screen and (max-width:414px){
+    #backfirst
+    {
+        top: -111px;
+        bottom: -293px;
+    }
+    .main
+    {
+        bottom: 8%;
+        left: 69px;
+    }
+    .appText
+    {
+        text-align: center;
+        left: 1px;
+        bottom:-18em;
+        letter-spacing: -1.5px;
+        line-height: 24px;
+    }
+    #backLast
+    {
+        bottom:-105px;
+        left: 66px;
+    }
+    body
+    {
+        overflow-x: hidden;
+    }
+}
